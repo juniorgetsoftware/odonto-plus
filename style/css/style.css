@@ -4,4 +4,10 @@
   height: 350px;
   transition: 1s; }
 
+.opaque {
+  opacity: 0.7; }
+
+.bg-opacity-5 {
+  background: #0000008e !important; }
+
 /*# sourceMappingURL=style.css.map */
